@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RoomInAR/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/RoomInAR/static/js/main.b6e7cd58.chunk.js",
-    "main.js.map": "/RoomInAR/static/js/main.b6e7cd58.chunk.js.map",
+    "main.js": "/RoomInAR/static/js/main.c4adf1df.chunk.js",
+    "main.js.map": "/RoomInAR/static/js/main.c4adf1df.chunk.js.map",
     "runtime-main.js": "/RoomInAR/static/js/runtime-main.571b75d5.js",
     "runtime-main.js.map": "/RoomInAR/static/js/runtime-main.571b75d5.js.map",
     "static/css/2.64ddeb58.chunk.css": "/RoomInAR/static/css/2.64ddeb58.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.64ddeb58.chunk.css",
     "static/js/2.c5ffe270.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.b6e7cd58.chunk.js"
+    "static/js/main.c4adf1df.chunk.js"
   ]
 }
